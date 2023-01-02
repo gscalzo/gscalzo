@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gscalzo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gscalzo&theme=highcontrast&hide_border=true&mode=weekly&background=DD2727)](https://git.io/streak-stats)
 
 <!---
 gscalzo/gscalzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
